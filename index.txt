@@ -36,6 +36,7 @@
                     <select id="size1" onchange="updatePrice('price1', this)">
                         <option value="5ml">5ml - LKR3000</option>
                         <option value="10ml">10ml - LKR5500</option>
+                        <option value="100ml">100ml - LKR33500</option>
                     </select>
                 </div>
                 <p><strong>Price:</strong> <span id="price1">LKR3000</span></p>
@@ -68,6 +69,7 @@
                     <select id="size3" onchange="updatePrice('price3', this)">
                         <option value="5ml">5ml - LKR1500</option>
                         <option value="10ml">10ml - LKR2500</option>
+                        <option value="100ml">100ml - LKR12000</option>
                     </select>
                 </div>
                 <p><strong>Price:</strong> <span id="price3">LKR1500</span></p>
@@ -84,6 +86,7 @@
                     <select id="size4" onchange="updatePrice('price4', this)">
                         <option value="5ml">5ml - LKR1500</option>
                         <option value="10ml">10ml - LKR2500</option>
+                        <option value="100ml">100ml - LKR13000</option>
                     </select>
                 </div>
                 <p><strong>Price:</strong> <span id="price4">LKR1500</span></p>
@@ -100,6 +103,7 @@
                     <select id="size5" onchange="updatePrice('price5', this)">
                         <option value="5ml">5ml - LKR1500</option>
                         <option value="10ml">10ml - LKR2400</option>
+                        <option value="100ml">100ml - LKR13500</option>
                     </select>
                 </div>
                 <p><strong>Price:</strong> <span id="price5">LKR1500</span></p>
@@ -116,6 +120,7 @@
                     <select id="size6" onchange="updatePrice('price6', this)">
                         <option value="5ml">5ml - LKR1500</option>
                         <option value="10ml">10ml - LKR2500</option>
+                        <option value="100ml">100ml - LKR11500</option>
                     </select>
                 </div>
                 <p><strong>Price:</strong> <span id="price6">LKR1500</span></p>
@@ -132,6 +137,7 @@
                     <select id="size7" onchange="updatePrice('price7', this)">
                         <option value="5ml">5ml - LKR1200</option>
                         <option value="10ml">10ml - LKR1850</option>
+                        <option value="100ml">100ml - LKR10500</option>
                     </select>
                 </div>
                 <p><strong>Price:</strong> <span id="price7">LKR1200</span></p>
@@ -148,6 +154,7 @@
                     <select id="size8" onchange="updatePrice('price8', this)">
                         <option value="5ml">5ml - LKR1500</option>
                         <option value="10ml">10ml - LKR2500</option>
+                        <option value="100ml">100ml - LKR13500</option>
                     </select>
                 </div>
                 <p><strong>Price:</strong> <span id="price8">LKR1500</span></p>
@@ -247,6 +254,26 @@
 
 
 
+                }
+            } else if (selectedSize === '100ml') {
+                if (priceId === 'price1') {
+                    priceText = 'LKR33500';
+                } else if (priceId === 'price3') {
+                    priceText = 'LKR12000';
+                } else if (priceId === 'price4') {
+                    priceText = 'LKR13000';
+                } else if (priceId === 'price5') {
+                    priceText = 'LKR13500';
+                } else if (priceId === 'price6') {
+                    priceText = 'LKR11500';
+                } else if (priceId === 'price7') {
+                    priceText = 'LKR10500';
+                } else if (priceId === 'price8') {
+                    priceText = 'LKR13500';
+
+
+
+
 
                 }
             }
@@ -275,5 +302,3 @@
     </script>
 </body>
 </html>
-
-

@@ -34,12 +34,12 @@
                 <div>
                     <label for="size1" style="font-weight: bold;">Select Size:</label>
                     <select id="size1" onchange="updatePrice('price1', this)">
-                        <option value="5ml">5ml - LKR3000</option>
-                        <option value="10ml">10ml - LKR5500</option>
-                        <option value="100ml">100ml - LKR33500</option>
+                        <option value="5ml">5ml - LKR3,000.00</option>
+                        <option value="10ml">10ml - LKR5,500.00</option>
+                        <option value="100ml">100ml - LKR33,500.00</option>
                     </select>
                 </div>
-                <p><strong>Price:</strong> <span id="price1">LKR3000</span></p>
+                <p><strong>Price:</strong> <span id="price1">LKR3,000.00</span></p>
                 <a href="https://wa.me/94763701230?text=I%20want%20to%20order%20Azzaro%20No.%20Most%20in%205ml" style="display: inline-block; background-color: #25d366; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Order via WhatsApp</a>
             </div>
 
@@ -51,11 +51,11 @@
                 <div>
                     <label for="size2" style="font-weight: bold;">Select Size:</label>
                     <select id="size2" onchange="updatePrice('price2', this)">
-                        <option value="5ml">5ml - LKR3900</option>
-                        <option value="10ml">10ml - LKR6900</option>
+                        <option value="5ml">5ml - LKR3,900.00</option>
+                        <option value="10ml">10ml - LKR6,900.00</option>
                     </select>
                 </div>
-                <p><strong>Price:</strong> <span id="price2">LKR3900</span></p>
+                <p><strong>Price:</strong> <span id="price2">LKR3,900.00</span></p>
                 <a href="https://wa.me/94763701230?text=I%20want%20to%20order%20Dior%20Sauvage%20in%205ml" style="display: inline-block; background-color: #25d366; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Order via WhatsApp</a>
             </div>
 
@@ -67,12 +67,12 @@
                 <div>
                     <label for="size3" style="font-weight: bold;">Select Size:</label>
                     <select id="size3" onchange="updatePrice('price3', this)">
-                        <option value="5ml">5ml - LKR1500</option>
-                        <option value="10ml">10ml - LKR2500</option>
-                        <option value="100ml">100ml - LKR12000</option>
+                        <option value="5ml">5ml - LKR1,500.00</option>
+                        <option value="10ml">10ml - LKR2,500.00</option>
+                        <option value="100ml">100ml - LKR12,000.00</option>
                     </select>
                 </div>
-                <p><strong>Price:</strong> <span id="price3">LKR1500</span></p>
+                <p><strong>Price:</strong> <span id="price3">LKR1,500.00</span></p>
                 <a href="https://wa.me/94763701230?text=I%20want%20to%20order%20Rayhaan%20Crimson%20in%205ml" style="display: inline-block; background-color: #25d366; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Order via WhatsApp</a>
             </div>
 
@@ -84,12 +84,12 @@
                 <div>
                     <label for="size4" style="font-weight: bold;">Select Size:</label>
                     <select id="size4" onchange="updatePrice('price4', this)">
-                        <option value="5ml">5ml - LKR1500</option>
-                        <option value="10ml">10ml - LKR2500</option>
-                        <option value="100ml">100ml - LKR13000</option>
+                        <option value="5ml">5ml - LKR1,500.00</option>
+                        <option value="10ml">10ml - LKR2,500.00</option>
+                        <option value="100ml">100ml - LKR13,000.00</option>
                     </select>
                 </div>
-                <p><strong>Price:</strong> <span id="price4">LKR1500</span></p>
+                <p><strong>Price:</strong> <span id="price4">LKR1,500.00</span></p>
                 <a href="https://wa.me/94763701230?text=I%20want%20to%20order%20Lattafa%20Kamrah%20in%205ml" style="display: inline-block; background-color: #25d366; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Order via WhatsApp</a>
             </div>
 
@@ -101,12 +101,12 @@
                 <div>
                     <label for="size5" style="font-weight: bold;">Select Size:</label>
                     <select id="size5" onchange="updatePrice('price5', this)">
-                        <option value="5ml">5ml - LKR1500</option>
-                        <option value="10ml">10ml - LKR2400</option>
-                        <option value="100ml">100ml - LKR13500</option>
+                        <option value="5ml">5ml - LKR1,500.00</option>
+                        <option value="10ml">10ml - LKR2,400.00</option>
+                        <option value="100ml">100ml - LKR13,500.00</option>
                     </select>
                 </div>
-                <p><strong>Price:</strong> <span id="price5">LKR1500</span></p>
+                <p><strong>Price:</strong> <span id="price5">LKR1,500.00</span></p>
                 <a href="https://wa.me/94763701230?text=I%20want%20to%20order%20Afnan%209pm%20in%205ml" style="display: inline-block; background-color: #25d366; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Order via WhatsApp</a>
             </div>
 
@@ -118,12 +118,12 @@
                 <div>
                     <label for="size6" style="font-weight: bold;">Select Size:</label>
                     <select id="size6" onchange="updatePrice('price6', this)">
-                        <option value="5ml">5ml - LKR1500</option>
-                        <option value="10ml">10ml - LKR2500</option>
-                        <option value="100ml">100ml - LKR11500</option>
+                        <option value="5ml">5ml - LKR1,500.00</option>
+                        <option value="10ml">10ml - LKR2,500.00</option>
+                        <option value="100ml">100ml - LKR11,500.00</option>
                     </select>
                 </div>
-                <p><strong>Price:</strong> <span id="price6">LKR1500</span></p>
+                <p><strong>Price:</strong> <span id="price6">LKR1,500.00</span></p>
                 <a href="https://wa.me/94763701230?text=I%20want%20to%20order%20Lattafa%20Asad%20Bourbon%20in%205ml" style="display: inline-block; background-color: #25d366; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Order via WhatsApp</a>
             </div>
 
@@ -135,12 +135,12 @@
                 <div>
                     <label for="size7" style="font-weight: bold;">Select Size:</label>
                     <select id="size7" onchange="updatePrice('price7', this)">
-                        <option value="5ml">5ml - LKR1200</option>
-                        <option value="10ml">10ml - LKR1850</option>
-                        <option value="100ml">100ml - LKR10500</option>
+                        <option value="5ml">5ml - LKR1,200.00</option>
+                        <option value="10ml">10ml - LKR1,850.00</option>
+                        <option value="100ml">100ml - LKR10,500.00</option>
                     </select>
                 </div>
-                <p><strong>Price:</strong> <span id="price7">LKR1200</span></p>
+                <p><strong>Price:</strong> <span id="price7">LKR1,200.00</span></p>
                 <a href="https://wa.me/94763701230?text=I%20want%20to%20order%20Lattafa%20Asad%20in%205ml" style="display: inline-block; background-color: #25d366; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Order via WhatsApp</a>
             </div>
 
@@ -152,12 +152,12 @@
                 <div>
                     <label for="size8" style="font-weight: bold;">Select Size:</label>
                     <select id="size8" onchange="updatePrice('price8', this)">
-                        <option value="5ml">5ml - LKR1500</option>
-                        <option value="10ml">10ml - LKR2500</option>
-                        <option value="100ml">100ml - LKR13500</option>
+                        <option value="5ml">5ml - LKR1,500.00</option>
+                        <option value="10ml">10ml - LKR2,500.00</option>
+                        <option value="100ml">100ml - LKR13,500.00</option>
                     </select>
                 </div>
-                <p><strong>Price:</strong> <span id="price8">LKR1500</span></p>
+                <p><strong>Price:</strong> <span id="price8">LKR1,500.00</span></p>
                 <a href="https://wa.me/94763701230?text=I%20want%20to%20order%20Armaf%20Club%20De%20Nuit%20Intense%20Man%20Eau%20De%20Parfum%20in%205ml" style="display: inline-block; background-color: #25d366; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">Order via WhatsApp</a>
             </div>
 
@@ -213,21 +213,21 @@
             // Update price based on selected size and priceId
             if (selectedSize === '5ml') {
                 if (priceId === 'price1') {
-                    priceText = 'LKR3000';
+                    priceText = 'LKR3,000.00';
                 } else if (priceId === 'price2') {
-                    priceText = 'LKR3900';
+                    priceText = 'LKR3,900.00';
                 } else if (priceId === 'price3') {
-                    priceText = 'LKR1500';
+                    priceText = 'LKR1,500.00';
                 } else if (priceId === 'price4') {
-                    priceText = 'LKR1500';
+                    priceText = 'LKR1,500.00';
                 } else if (priceId === 'price5') {
-                    priceText = 'LKR1500';
+                    priceText = 'LKR1,500.00';
                 } else if (priceId === 'price6') {
-                    priceText = 'LKR1500';
+                    priceText = 'LKR1,500.00';
                 } else if (priceId === 'price7') {
-                    priceText = 'LKR1200';
+                    priceText = 'LKR1,200.00';
                 } else if (priceId === 'price8') {
-                    priceText = 'LKR1500';
+                    priceText = 'LKR1,500.00';
 
 
 
@@ -235,21 +235,21 @@
                 }
             } else if (selectedSize === '10ml') {
                 if (priceId === 'price1') {
-                    priceText = 'LKR5500';
+                    priceText = 'LKR5,500.00';
                 } else if (priceId === 'price2') {
-                    priceText = 'LKR6900';
+                    priceText = 'LKR6,900.00';
                 } else if (priceId === 'price3') {
-                    priceText = 'LKR2500';
+                    priceText = 'LKR2,500.00';
                 } else if (priceId === 'price4') {
-                    priceText = 'LKR2500';
+                    priceText = 'LKR2,500.00';
                 } else if (priceId === 'price5') {
-                    priceText = 'LKR2400';
+                    priceText = 'LKR2,400.00';
                 } else if (priceId === 'price6') {
-                    priceText = 'LKR2500';
+                    priceText = 'LKR2,500.00';
                 } else if (priceId === 'price7') {
-                    priceText = 'LKR1850';
+                    priceText = 'LKR1,850.00';
                 } else if (priceId === 'price8') {
-                    priceText = 'LKR2500';
+                    priceText = 'LKR2,500.00';
 
 
 
@@ -257,19 +257,19 @@
                 }
             } else if (selectedSize === '100ml') {
                 if (priceId === 'price1') {
-                    priceText = 'LKR33500';
+                    priceText = 'LKR33,500.00';
                 } else if (priceId === 'price3') {
-                    priceText = 'LKR12000';
+                    priceText = 'LKR12,000.00';
                 } else if (priceId === 'price4') {
-                    priceText = 'LKR13000';
+                    priceText = 'LKR13,000.00';
                 } else if (priceId === 'price5') {
-                    priceText = 'LKR13500';
+                    priceText = 'LKR13,500.00';
                 } else if (priceId === 'price6') {
-                    priceText = 'LKR11500';
+                    priceText = 'LKR11,500.00';
                 } else if (priceId === 'price7') {
-                    priceText = 'LKR10500';
+                    priceText = 'LKR10,500.00';
                 } else if (priceId === 'price8') {
-                    priceText = 'LKR13500';
+                    priceText = 'LKR13,500.00';
 
 
 
